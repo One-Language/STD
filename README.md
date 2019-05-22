@@ -6,8 +6,11 @@ ET STD (Specify Language Standard Version, Standard variety, Standard dialect)
 
 ### Utilities library
 
-- string
-- memory
+- IO
+- String
+- Memory
+- Limit
+- CGI
 
 ------------
 
