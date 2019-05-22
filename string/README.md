@@ -28,6 +28,13 @@ size string.length(char input);
 size string.length(string input);
 ```
 
+### string.utf8Length
+
+```c
+size string.utf8Length(string input);
+size string.utf8Length(char input);
+```
+
 ### string.replace
 
 ```c
