@@ -1,8 +1,6 @@
 # ET STD / Style
 
-## style
-
-#### How to define?
+### style
 
 ```css
 [target [...]] {
@@ -61,7 +59,9 @@ label {
 }
 ```
 
-## Attributes
+---------------
+
+## Style Attributes
 
 ### background
 
