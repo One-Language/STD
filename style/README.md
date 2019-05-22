@@ -81,6 +81,14 @@ label {
 
 ### textShadow
 
+### textFont
+
+### textFilter
+
+### animation
+
+### animationDelay
+
 ### boxShadow
 
 ### padding
@@ -108,3 +116,5 @@ label {
 ### borderColor
 
 ### borderRadius
+
+### 
