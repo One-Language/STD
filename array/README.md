@@ -29,3 +29,9 @@ auto array.get(size index);
 ```c
 bool array.exist(auto value);
 ```
+
+### array.resize
+
+```c
+bool array.resize(size newSize);
+```
