@@ -10,6 +10,7 @@ ET STD (Specify Language Standard Version, Standard variety, Standard dialect)
 - [String](string/)
 - [Memory](memory/)
 - [Limit](limit/)
+- [File](file/)
 - [CGI](cgi/)
 
 ------------
