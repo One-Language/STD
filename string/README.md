@@ -1,22 +1,22 @@
 # ET STD / String
 
-### upper
+### string.upper
 
-### lower
+### string.lower
 
-### uppers
+### string.uppers
 
-### lowers
+### string.lowers
 
-### repeat
+### string.repeat
 
-### repeats
+### string.repeats
 
-### length
+### string.length
 
-### replace
+### string.replace
 
-### search
+### string.search
 
-### searchs
+### string.searchs
 
