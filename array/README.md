@@ -1,27 +1,31 @@
 # ET STD / Array
 
+```c
+array array;
+```
+
 ### array.length
 
-```
+```c
 size array.length(array list);
 ```
 
 ### array.push
 
-```
-bool array.push(array list, auto value);
+```c
+bool array.push(auto value);
 ```
 
 ### array.type
 
 ### array.get
 
-```
-auto array.get(array list, size index);
+```c
+auto array.get(size index);
 ```
 
 ### array.exist
 
-```
-bool array.exist(array list, auto value);
+```c
+bool array.exist(auto value);
 ```
