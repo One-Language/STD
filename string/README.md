@@ -12,3 +12,11 @@
 
 ### repeats
 
+### length
+
+### replace
+
+### search
+
+### searchs
+
