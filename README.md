@@ -13,6 +13,7 @@ ET STD (Specify Language Standard Version, Standard variety, Standard dialect)
 - [File](file/)
 - [Array](array/)
 - [CGI](cgi/)
+- [Style](style/)
 
 ------------
 
