@@ -79,6 +79,8 @@ label {
 
 ### textSize
 
+### textAlign
+
 ### textShadow
 
 ### textFont
@@ -117,4 +119,23 @@ label {
 
 ### borderRadius
 
-### 
+### float
+
+### clear
+
+### display
+
+### position
+
+### width
+
+### widthMin
+
+### widthMax
+
+### height
+
+### heightMin
+
+### heightMax
+
