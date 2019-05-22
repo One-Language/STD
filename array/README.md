@@ -10,7 +10,7 @@ array array;
 size array.length(array list);
 ```
 
-### array.push
+### array.push, array.add, array.insert
 
 ```c
 bool array.push(auto value);
