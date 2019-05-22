@@ -1,6 +1,6 @@
 # ET STD / Style
 
-### style
+## style
 
 #### How to define?
 
@@ -60,3 +60,51 @@ label {
 	// ...
 }
 ```
+
+## Attributes
+
+### background
+
+### backgroundImage
+
+### backgroundColor
+
+### backgroundRepeat
+
+### backgroundSize
+
+### backgroundPosition
+
+### textColor
+
+### textSize
+
+### textShadow
+
+### boxShadow
+
+### padding
+
+### paddingUp
+
+### paddingBottom
+
+### paddingLeft
+
+### paddingRight
+
+### margin
+
+### marginTop
+
+### marginBottom
+
+### marginLeft
+
+### marginRight
+
+### border
+
+### borderColor
+
+### borderRadius
