@@ -12,6 +12,14 @@
 
 ### file.copy, file.send, file.share
 
+### file.read
+
+### file.readLine
+
+### file.list
+
+### file.tree
+
 ### file.setPermission
 
 ### file.getPermission
