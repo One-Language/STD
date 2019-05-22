@@ -2,7 +2,7 @@
 
 ### cgi.accept
 
-```
+```c
 bool cgi.accept(void)
 ```
 
