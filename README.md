@@ -11,6 +11,7 @@ ET STD (Specify Language Standard Version, Standard variety, Standard dialect)
 - [Memory](memory/)
 - [Limit](limit/)
 - [File](file/)
+- [Array](array/)
 - [CGI](cgi/)
 
 ------------
