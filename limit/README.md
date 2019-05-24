@@ -25,6 +25,8 @@ const size limit.MIN_INT8 = 0
 // UINT8
 const usize limit.MAX_UINT8 = 0
 const usize limit.MIN_UINT8 = 0
-// FLOAT
-// UFLOAT
+// FLOAT32
+// UFLOAT32
+// FLOAT64
+// UFLOAT64
 ```
