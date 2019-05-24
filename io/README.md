@@ -2,7 +2,7 @@
 
 ### io.exit
 
-```
+```c
 void io.exit(int code)
 ```
 
@@ -10,7 +10,7 @@ void io.exit(int code)
 
 ### io.write
 
-```
+```c
 size io.write(char input)
 size io.write(string input)
 size io.write(file target, char input)
