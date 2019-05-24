@@ -48,4 +48,14 @@ bool file.copy(string name, char newname);
 
 ### file.setPermission
 
+```
+@file. is a file type data
+bool file.setPermission(int permission);
+```
+
 ### file.getPermission
+
+```
+@file. is a file type data
+int file.getPermission();
+```
