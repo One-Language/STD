@@ -1,0 +1,7 @@
+@start
+main:
+	while cgi.accept():
+		_ "Content-type: text/plain\r\n\r\n"
+		_ "Hey!\n"
+	end
+end
