@@ -1,0 +1,7 @@
+@start
+main:
+	loop cgi.accept():
+		_"Content-type: text/html\r\n\r\n"
+		_ "Hey!\n"
+	end
+end
