@@ -1,0 +1,5 @@
+@start
+main:
+	file.create("file.txt")
+	file.delete("file.txt")
+end
