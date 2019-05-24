@@ -1,0 +1,6 @@
+@start
+main:
+	myfile=file.open("file.txt", "w+")
+	myfile.write("Hello, World!\n")
+	myfile.close()
+end
