@@ -38,7 +38,7 @@ bool file.copy(string name, string newname);
 bool file.copy(string name, char newname);
 ```
 
-### file.read
+### file.read    
 
 ### file.readLine
 
