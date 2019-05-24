@@ -11,6 +11,8 @@ bool file.create(string name);
 
 ### file.content
 
+### file.append
+
 ### file.remove, file.delete
 
 ```c
