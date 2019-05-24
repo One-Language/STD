@@ -1,17 +1,21 @@
 # ET STD / File
 
-### file.create
+_syntax **/URL/file.create
 
 ```c
 bool file.create(char name);
 bool file.create(string name);
 ```
 
-### file.modify, file.edit, file.change
+_syntax **/URL/file.modify, file.edit, file.change
 
-### file.content
 
-### file.append
+
+_syntax **/URL/file.content
+
+
+_syntax **/URL/file.append
+
 
 ### file.remove, file.delete
 
