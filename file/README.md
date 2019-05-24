@@ -2,6 +2,11 @@
 
 ### file.create
 
+```c
+bool file.create(char name);
+bool file.create(string name);
+```
+
 ### file.modify, file.edit, file.change
 
 ### file.content
@@ -9,26 +14,26 @@
 ### file.remove, file.delete
 
 ```c
-bool file.remove(char input);
-bool file.remove(string input);
+bool file.remove(char name);
+bool file.remove(string name);
 ```
 
 ### file.rename, file.cut
 
 ```c
-bool file.rename(char input, char newname);
-bool file.rename(char input, string newname);
-bool file.rename(string input, string newname);
-bool file.rename(string input, char newname);
+bool file.rename(char name, char newname);
+bool file.rename(char name, string newname);
+bool file.rename(string name, string newname);
+bool file.rename(string name, char newname);
 ```
 
 ### file.copy, file.send, file.share
 
 ```c
-bool file.copy(char input, char newname);
-bool file.copy(char input, string newname);
-bool file.copy(string input, string newname);
-bool file.copy(string input, char newname);
+bool file.copy(char name, char newname);
+bool file.copy(char name, string newname);
+bool file.copy(string name, string newname);
+bool file.copy(string name, char newname);
 ```
 
 ### file.read
