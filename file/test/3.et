@@ -1,0 +1,5 @@
+@start
+main:
+	myfile=file.open("file.txt", "w+")
+	io.write(myfile, "Hello, World!\n")
+end
