@@ -3,7 +3,7 @@
 ### io.exit
 
 ```
-void exit(int code)
+void io.exit(int code)
 ```
 
 ### io.read
