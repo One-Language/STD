@@ -8,14 +8,14 @@
 
 ### file.remove, file.delete
 
-```
+```c
 bool file.remove(char input);
 bool file.remove(string input);
 ```
 
 ### file.rename, file.cut
 
-```
+```c
 bool file.rename(char input, char newname);
 bool file.rename(char input, string newname);
 bool file.rename(string input, string newname);
@@ -24,7 +24,7 @@ bool file.rename(string input, char newname);
 
 ### file.copy, file.send, file.share
 
-```
+```c
 bool file.copy(char input, char newname);
 bool file.copy(char input, string newname);
 bool file.copy(string input, string newname);
