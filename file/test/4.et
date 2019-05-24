@@ -1,0 +1,4 @@
+@start
+main:
+	file.write("file.txt", "Hello, World!\n")
+end
