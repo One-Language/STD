@@ -1,0 +1,13 @@
+@start
+main:
+	cgi.init()
+	loop cgi.accept():
+		request=cgi.request()
+		if request.method == "get":
+			cgi.setResponse("OK!\n")
+		else
+			cgi.setResponse("Error!\n")
+		end
+		cgi.result()
+	end
+end
