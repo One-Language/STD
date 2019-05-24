@@ -1,0 +1,19 @@
+@start
+main:
+	cgi.init()
+	loop cgi.accept():
+		request=cgi.request()
+		if request.url == "/":
+			if request.method == "get":
+				cgi.setResponse("OK!\n")
+			else
+				cgi.setResponse("Error!\n")
+			end
+			// cgi.setCode(200)
+		else
+			cgi.setResponse("404!\n")
+			cgi.setCode(404)
+		end
+		cgi.result()
+	end
+end
