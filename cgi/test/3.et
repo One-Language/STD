@@ -1,0 +1,9 @@
+@start
+main:
+	cgi.init()
+	loop cgi.accept():
+		cgi.addHeader("Server", "Secret")
+		cgi.setResponse("Hey!\n")
+		cgi.result()
+	end
+end
