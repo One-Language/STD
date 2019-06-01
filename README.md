@@ -14,6 +14,7 @@ ET STD (Specify Language Standard Version, Standard variety, Standard dialect)
 - [Array](array/)
 - [CGI](cgi/)
 - [Style](style/)
+- [Regex](regex/)
 
 ------------
 
