@@ -21,7 +21,7 @@
 
 ### regex.split
 
-```
+```c
 string[] regex.split(string input, string[] splinters)
 string[] regex.split(string input, char[] splinters)
 
