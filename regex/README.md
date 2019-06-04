@@ -3,7 +3,7 @@
 
 ### regex.match
 
-```javascript
+```c
 array regex.match(string input, string regexSplinters)
 ```
 
