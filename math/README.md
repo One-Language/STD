@@ -1,10 +1,10 @@
-# [ & ](#) **/ Math
+# [ & ](#) / Math
 
 <br>
 <br>
 <br>
 
-### [ & ](#) **/ math.sin
+### [ & ](#) / math.sin
 
 ```c
 float math.sin(int radian);
@@ -13,7 +13,7 @@ float math.sin(int radian);
 <br>
 <br>
 
-### [ & ](#) **/ math.dsin
+### [ & ](#) / math.dsin
 
 ```c
 float math.dsin(int degree);
@@ -22,7 +22,7 @@ float math.dsin(int degree);
 <br>
 <br>
 
-### [ & ](#) **/ math.cos
+### [ & ](#) / math.cos
 
 ```c
 float math.cos(int radian);
@@ -31,7 +31,7 @@ float math.cos(int radian);
 <br>
 <br>
 
-### [ & ](#) **/ math.dcos
+### [ & ](#) / math.dcos
 
 ```c
 float math.dcos(int degree);
@@ -40,7 +40,7 @@ float math.dcos(int degree);
 <br>
 <br>
 
-### [ & ](#) **/ math.cot
+### [ & ](#) / math.cot
 
 ```c
 float math.cot(int radian);
@@ -49,7 +49,7 @@ float math.cot(int radian);
 <br>
 <br>
 
-### [ & ](#) **/ math.dcot
+### [ & ](#) / math.dcot
 
 ```c
 float math.dcot(int degree);
@@ -58,7 +58,7 @@ float math.dcot(int degree);
 <br>
 <br>
 
-### [ & ](#) **/ math.tan
+### [ & ](#) / math.tan
 
 ```c
 float math.tan(int radian);
@@ -67,7 +67,7 @@ float math.tan(int radian);
 <br>
 <br>
 
-### [ & ](#) **/ math.dtan
+### [ & ](#) / math.dtan
 
 ```c
 float math.dtan(int degree);
