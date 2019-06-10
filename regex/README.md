@@ -1,32 +1,50 @@
-# ET STD / Regex
+# [ & ](#) / Regex
 
+<br>
+<br>
+<br>
 
-### regex.match
+### [ & ](#) / regex.match
 
 ```c
 array regex.match(string input, string regexSplinters)
 ```
 
-### regex.matchAll
+<br>
+<br>
+
+### [ & ](#) / regex.matchAll
 
 ```c
 array regex.matchAll(string input, string regexSplinters)
 ```
 
-### regex.replace
+<br>
+<br>
+
+### [ & ](#) /  regex.replace
 
 ```c
 array regex.replace(string input, string regexSplinters)
 ```
 
-### regex.split
+<br>
+<br>
+
+### [ & ](#) / regex.split
 
 ```c
 string[] regex.split(string input, string regexSplinters)
 ```
 
-### regex.grep
+<br>
+<br>
+
+### [ & ](#) / regex.grep
 
 ```c
 array regex.grep(string input, string regexSplinters)
 ```
+
+<br>
+<br>
