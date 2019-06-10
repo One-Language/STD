@@ -14,17 +14,49 @@ bool file.create(string name);
 <br>
 <br>
 
-### [ & ](#) / file.modify, file.edit, file.change
+### [ & ](#) / file.modify
 
-<br>
-<br>
+
+```c
+bool file.modify(char name);
+bool file.modify(string name);
+```
+
+### [ & ](#) / file.edit
+
+
+```c
+bool file.edit(char name);
+bool file.edit(string name);
+```
+
+### [ & ](#) / file.change
+
+
+```c
+bool file.change(char name);
+bool file.change(string name);
+```
 
 ### [ & ](#) / file.content
 
 <br>
 <br>
 
+```c
+bool file.content(char name);
+bool file.content(string name);
+```
+
 ### [ & ](#) / file.append
+
+<br>
+<br>
+
+```c
+bool file.append(char name);
+bool file.append(string name);
+```
 
 <br>
 <br>
@@ -39,7 +71,17 @@ bool file.remove(string name);
 <br>
 <br>
 
-### [ & ](#) / file.rename, file.cut
+### [ & ](#) /  file.delete
+
+```c
+bool file.delete(char name);
+bool file.delete(string name);
+```
+
+<br>
+<br>
+
+### [ & ](#) / file.rename
 
 ```c
 bool file.rename(char name, char newname);
@@ -48,10 +90,47 @@ bool file.rename(string name, string newname);
 bool file.rename(string name, char newname);
 ```
 
+### [ & ](#) / file.cut
+
+<br>
+<br>
+
+```c
+bool file.cut(char name, char newname);
+bool file.cut(char name, string newname);
+bool file.cut(string name, string newname);
+bool file.cut(string name, char newname);
+```
+
 <br>
 <br>
 
 ### [ & ](#) / file.copy, file.send, file.share
+
+```c
+bool file.copy(char name, char newname);
+bool file.copy(char name, string newname);
+bool file.copy(string name, string newname);
+bool file.copy(string name, char newname);
+```
+
+<br>
+<br>
+
+### [ & ](#) / file.send
+
+
+```c
+bool file.copy(char name, char newname);
+bool file.copy(char name, string newname);
+bool file.copy(string name, string newname);
+bool file.copy(string name, char newname);
+```
+
+<br>
+<br>
+
+### [ & ](#) / file.share
 
 ```c
 bool file.copy(char name, char newname);
