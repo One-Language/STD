@@ -64,7 +64,7 @@ bool file.append(string name);
 <br>
 <br>
 
-### [ & ](#) / file.remove, file.delete
+### [ & ](#) / file.remove
 
 ```c
 bool file.remove(char name);
