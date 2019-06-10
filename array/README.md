@@ -4,9 +4,6 @@
 <br>
 <br>
 
-**&/ array array;**
-#
-
 ### array array;
  
 ```pascal
@@ -17,12 +14,6 @@ array array;
 <br>
 <br>
 
-
-**&/ array.length**
-#
-
-<br>
-
 ### array.length
 
 ```pascal
@@ -30,13 +21,6 @@ size array.length(array list);
 ```
 
 <br>
-<br>
-<br>
-
-
-**&/ array.push**
-#
-
 <br>
 <br>
 
@@ -50,12 +34,6 @@ bool array.push(auto value);
 <br>
 <br>
 
-
-**&/ array.add**
-#
-
-<br>
-
 ### array.add
 
 ```pascal
@@ -64,12 +42,6 @@ bool array.add(auto value);
 
 <br>
 <br>
-<br>
-
-
-**&/ array.insert**
-#
-
 <br>
 
 ### array.insert
@@ -82,12 +54,6 @@ bool array.insert(auto value);
 <br>
 <br>
 
-
-**&/ array.type**
-#
-
-<br>
-
 ### array.type
 
 ```pascal
@@ -96,11 +62,6 @@ auto array.type(size index);
 
 <br>
 <br>
-<br>
-
-**&/ array.get**
-#
-
 <br>
 
 ### array.get
@@ -113,12 +74,6 @@ auto array.get(size index);
 <br>
 <br>
 
-
-**&/ array.exist**
-#
-
-<br>
-
 ### array.exist
 
 ```pascal 
@@ -129,11 +84,6 @@ bool array.exist(auto value);
 <br>
 <br>
 
-
-**&/ array.resize**
-#
-<br>
-
 ### array.resize
 
 <br>
@@ -142,6 +92,7 @@ bool array.exist(auto value);
 ```c
 bool array.resize(size newSize);
 ```
+
 <br>
 <br>
 <br>
