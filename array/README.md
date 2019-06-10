@@ -1,12 +1,14 @@
-# ET STD / Array
+# [& /](#)  / Array 
 
 <br>
 <br>
 <br>
 
-### array array;
+### [& / ](#) / Array / array array;
+
+<!--- ### array array; --->
  
-```pascal  
+```
 array array;
 ```
 
@@ -14,7 +16,9 @@ array array;
 <br>
 <br>
 
-### array.length
+### [& / array / ](#) / Array / array.length 
+
+<!--- ### array.length  --->
 
 ```pascal
 size array.length(array list);
@@ -24,7 +28,9 @@ size array.length(array list);
 <br>
 <br>
 
-### array.push
+### [& / array / ](#) / Array / rray.push
+
+<!--- ### array.push  --->
 
 ```pascal
 bool array.push(auto value);
@@ -34,7 +40,9 @@ bool array.push(auto value);
 <br>
 <br>
 
-### array.add
+### [& / array / ](#) / Array / array.add
+
+<!--- ### array.add  --->
 
 ```pascal
 bool array.add(auto value);
@@ -44,7 +52,9 @@ bool array.add(auto value);
 <br>
 <br>
 
-### array.insert
+### [& / array / ](#) / Array / array.insert
+
+<!--- ### array.insert  --->
 
 ```pascal
 bool array.insert(auto value);
@@ -54,7 +64,9 @@ bool array.insert(auto value);
 <br>
 <br>
 
-### array.type
+### [& / array / ](#) / Array / array.type 
+
+<!--- ### array.type  --->
 
 ```pascal
 auto array.type(size index);
@@ -64,7 +76,9 @@ auto array.type(size index);
 <br>
 <br>
 
-### array.get
+### [& / array / ](#) / Array / array.get
+
+<!--- ### array.get  --->
 
 ```pascal
 auto array.get(size index);
@@ -74,7 +88,9 @@ auto array.get(size index);
 <br>
 <br>
 
-### array.exist
+### [& / array / ](#) / Array / array.exist
+
+<!--- ### array.exist  --->
 
 ```pascal 
 bool array.exist(auto value);
@@ -84,7 +100,9 @@ bool array.exist(auto value);
 <br>
 <br>
 
-### array.resize
+### [& / array / ](#) / Array / array.resize 
+
+<!--- ### array.resize  --->
 
 ```c
 bool array.resize(size newSize);
@@ -93,4 +111,6 @@ bool array.resize(size newSize);
 <br>
 <br>
 <br>
+
+
 
