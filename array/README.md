@@ -1,8 +1,5 @@
 # ET STD / ARRAY 
 
-
-#
-
 <br>
 <br>
 <br>
