@@ -1,4 +1,4 @@
-# ET STD :&: ARRAY 
+# ET STD / ARRAY 
 
 
 #
@@ -7,9 +7,7 @@
 <br>
 <br>
 
-> [@read ](#anchors-in-markdown)
-
-### [& ET STD / array array;](#anchors-in-markdown)
+### [& ET STD / array array;](#)
 
 ### array array;
  
@@ -24,10 +22,7 @@ array array;
 <br>
 <br>
 
-### [& ET STD / array.length ](#anchors-in-markdown)
-
-
-''' ### array.length '''
+### [& ET STD / array.length ](#)
 
 ```pascal
 size array.length(array list);
@@ -37,7 +32,7 @@ size array.length(array list);
 <br>
 <br>
 
-### array.push
+### [& ET STD / array.push](#)
 
 ```pascal
 bool array.push(auto value);
@@ -47,7 +42,7 @@ bool array.push(auto value);
 <br>
 <br>
 
-### array.add
+### [& ET STD / array.add](#)
 
 ```pascal
 bool array.add(auto value);
@@ -57,7 +52,7 @@ bool array.add(auto value);
 <br>
 <br>
 
-### array.insert
+### [& ET STD / array.insert ](#)
 
 ```pascal
 bool array.insert(auto value);
@@ -67,7 +62,7 @@ bool array.insert(auto value);
 <br>
 <br>
 
-### array.type
+### [& ET STD / array.type ](#)
 
 ```pascal
 auto array.type(size index);
@@ -77,7 +72,7 @@ auto array.type(size index);
 <br>
 <br>
 
-### array.get
+### [& ET STD / array.get ](#)
 
 ```pascal
 auto array.get(size index);
@@ -87,7 +82,7 @@ auto array.get(size index);
 <br>
 <br>
 
-### array.exist
+### [& ET STD / array.exist ](#)
 
 ```pascal 
 bool array.exist(auto value);
@@ -97,7 +92,7 @@ bool array.exist(auto value);
 <br>
 <br>
 
-### array.resize
+### [& ET STD / array.resize ](#)
 
 ```c
 bool array.resize(size newSize);
