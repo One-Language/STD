@@ -76,7 +76,7 @@ auto array.type(size index);
 <br>
 <br>
 
-### [& / array / ](#) / Array / array.get
+### [ & ](#) / array.get
 
 <!--- ### array.get  --->
 
