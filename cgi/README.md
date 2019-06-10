@@ -4,17 +4,6 @@
 <br>
 <br>
 
-### [ & ](#) / cgi.accept
-
-```c
-bool cgi.accept(void)
-```
-
-#
-
-<br>
-<br>
-
 ### [ & ](#) / Using
 
 <br>
@@ -29,4 +18,13 @@ bool cgi.accept(void)
 
 ```markdown
 > & et fcgi -connect localhost:4848 ./test
+```
+
+<br>
+<br>
+
+### [ & ](#) / cgi.accept
+
+```c
+bool cgi.accept(void)
 ```
