@@ -28,3 +28,6 @@
 ```c
 bool cgi.accept(void)
 ```
+
+<br>
+<br>
