@@ -1,11 +1,13 @@
+
+
+<center>
+ 
+ <a style="font-size:20px;"> & </a>
+
+</center>
+
 > ## ET STD / ARRAY 
 
-#
-
-
-<p align="center">
- <a style="font-size:20px"> & </a>
-</p>
 
 #
 
