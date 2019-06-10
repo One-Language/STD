@@ -4,7 +4,7 @@
 <br>
 <br>
 
-### [& / ](#) / Array / array array;
+### [& ](#) / array array;
 
 <!--- ### array array; --->
  
