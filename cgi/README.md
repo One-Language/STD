@@ -1,6 +1,10 @@
-# ET STD / CGI
+# [ & ](#) / CGI
 
-### cgi.accept
+<br>
+<br>
+<br>
+
+# [ & ](#) / cgi.accept
 
 ```c
 bool cgi.accept(void)
@@ -8,9 +12,12 @@ bool cgi.accept(void)
 
 ---------
 
-### Using
+# [ & ](#) / Using
 
+```markdown
+> & et build test.et -o test
 ```
-$ et build test.et -o test
-$ et fcgi -connect localhost:4848 ./test
+
+```markdown
+> & et fcgi -connect localhost:4848 ./test
 ```
