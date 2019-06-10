@@ -1,10 +1,10 @@
-# [ & ](#) / String
+# [ & ](#String) / String
 
 <br>
 <br>
 <br>
 
-### [ & ](#) / string.upper
+### [ & ](#string.upper) / string.upper
 
 ```c
 char string.upper(char input);
@@ -14,7 +14,7 @@ string string.upper(string input);
 <br>
 <br>
 
-### [ & ](#) / string.lower
+### [ & ](#string.lower) / string.lower
 
 ```c
 char string.lower(char input);
@@ -24,7 +24,7 @@ string string.lower(string input);
 <br>
 <br>
 
-### [ & ](#) /  string.repeat
+### [ & ](#string.repeat) / string.repeat
 
 ```c
 string string.repeat(char input, int number);
@@ -34,7 +34,7 @@ string string.repeat(string input, int number);
 <br>
 <br>
 
-### [ & ](#) / string.length
+### [ & ](#string.length) / string.length
 
 ```c
 size string.length(char input);
@@ -45,7 +45,7 @@ size string.length(string input);
 <br>
 
 
-### [ & ](#) / string.utf8Length
+### [ & ](#string.utf8Length) / string.utf8Length
 
 ```c
 size string.utf8Length(string input);
@@ -55,7 +55,7 @@ size string.utf8Length(char input);
 <br>
 <br>
 
-### [ & ](#) / string.replace
+### [ & ](#string.replace) / string.replace
 
 ```c
 char string.replace(char input, char found, char replace);
@@ -71,7 +71,7 @@ string string.replace(string input, string found, string replace);
 <br>
 <br>
 
-### [ & ](#) / string.search
+### [ & ](#string.search) / string.search
 
 ```c
 bool string.replace(char input, char found);
