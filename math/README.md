@@ -1,50 +1,77 @@
-# ET STD / Math
+# [ & ](#) **/ Math
 
-### math.sin
+<br>
+<br>
+<br>
+
+### [ & ](#) **/ math.sin
 
 ```c
 float math.sin(int radian);
 ```
 
-### math.dsin
+<br>
+<br>
+
+### [ & ](#) **/ math.dsin
 
 ```c
 float math.dsin(int degree);
 ```
 
-### math.cos
+<br>
+<br>
+
+### [ & ](#) **/ math.cos
 
 ```c
 float math.cos(int radian);
 ```
 
-### math.dcos
+<br>
+<br>
+
+### [ & ](#) **/ math.dcos
 
 ```c
 float math.dcos(int degree);
 ```
 
-### math.cot
+<br>
+<br>
+
+### [ & ](#) **/ math.cot
 
 ```c
 float math.cot(int radian);
 ```
 
-### math.dcot
+<br>
+<br>
+
+### [ & ](#) **/ math.dcot
 
 ```c
 float math.dcot(int degree);
 ```
 
-### math.tan
+<br>
+<br>
+
+### [ & ](#) **/ math.tan
 
 ```c
 float math.tan(int radian);
 ```
 
-### math.dtan
+<br>
+<br>
+
+### [ & ](#) **/ math.dtan
 
 ```c
 float math.dtan(int degree);
 ```
 
+<br>
+<br>
