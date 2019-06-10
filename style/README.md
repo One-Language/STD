@@ -91,7 +91,13 @@ import file/style.etl  // et style
 
 ```
 
+<br>
+<br>
+
 # [ & ](#Style) / Style Attributes
+
+<br>
+<br>
 
 ### [ & ](#Style) / background
 
