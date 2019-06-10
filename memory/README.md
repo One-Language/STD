@@ -1,10 +1,6 @@
-# ET STD / Memory
+# [ & ](#) / Memory
 
-### memory.alloc, memory.register
+### [ & ](#) / memory.alloc, memory.register , memory.realloc
 
-### memory.realloc
-
-### memory.free, memory.remove, memory.delete
-
-### memory.size
+### [ & ](#) /  ### memory.free, memory.remove, memory.delete , memory.size
 
