@@ -1,12 +1,7 @@
+# ET STD :&: ARRAY 
 
+### [&](#anchors-in-markdown)
 
-<center>
- 
- <a style="font-size:20px;"> & </a>
-
-</center>
-
-> ## ET STD / ARRAY 
 
 
 #
