@@ -8,6 +8,7 @@
 <br>
 
 > [@read ](#anchors-in-markdown)
+
 ### [& ET STD / array array;](#anchors-in-markdown)
 
 ### array array;
@@ -23,7 +24,10 @@ array array;
 <br>
 <br>
 
-### array.length
+### [& ET STD / array.length ](#anchors-in-markdown)
+
+
+''' ### array.length '''
 
 ```pascal
 size array.length(array list);
