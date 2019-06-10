@@ -4,7 +4,7 @@
 <br>
 <br>
 
-### [& ET STD / array array;](#)
+### [& / array / array array;](#)
 
 <!--- ### array array; --->
  
@@ -17,7 +17,7 @@ array array;
 <br>
 <br>
 
-### [& ET STD / array.length ](#)
+### [& / array / array.length ](#)
 
 <!--- ### array.length  --->
 
@@ -29,7 +29,7 @@ size array.length(array list);
 <br>
 <br>
 
-### [& ET STD / array.push](#)
+### [& / array / array.push](#)
 
 <!--- ### array.push  --->
 
@@ -41,7 +41,7 @@ bool array.push(auto value);
 <br>
 <br>
 
-### [& ET STD / array.add](#)
+### [& / array / array.add](#)
 
 <!--- ### array.add  --->
 
@@ -53,7 +53,7 @@ bool array.add(auto value);
 <br>
 <br>
 
-### [& ET STD / array.insert ](#)
+### [& / array / array.insert ](#)
 
 <!--- ### array.insert  --->
 
@@ -65,7 +65,7 @@ bool array.insert(auto value);
 <br>
 <br>
 
-### [& ET STD / array.type ](#)
+### [& / array / array.type ](#)
 
 <!--- ### array.type  --->
 
@@ -77,7 +77,7 @@ auto array.type(size index);
 <br>
 <br>
 
-### [& ET STD / array.get ](#)
+### [& / array / array.get ](#)
 
 <!--- ### array.get  --->
 
@@ -89,7 +89,7 @@ auto array.get(size index);
 <br>
 <br>
 
-### [& ET STD / array.exist ](#)
+### [& / array / array.exist ](#)
 
 <!--- ### array.exist  --->
 
@@ -101,7 +101,7 @@ bool array.exist(auto value);
 <br>
 <br>
 
-### [& ET STD / array.resize ](#)
+### [& / array / array.resize ](#)
 
 <!--- ### array.resize  --->
 
