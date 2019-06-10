@@ -6,7 +6,7 @@
 
 ### array array;
  
-```pascal
+```pascal  
 array array;
 ```
 
