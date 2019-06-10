@@ -6,7 +6,7 @@
 
 ### [ & ](#) / regex.match
 
-```c
+```javascript
 array regex.match(string input, string regexSplinters)
 ```
 
@@ -15,7 +15,7 @@ array regex.match(string input, string regexSplinters)
 
 ### [ & ](#) / regex.matchAll
 
-```c
+```javascript
 array regex.matchAll(string input, string regexSplinters)
 ```
 
@@ -24,7 +24,7 @@ array regex.matchAll(string input, string regexSplinters)
 
 ### [ & ](#) /  regex.replace
 
-```c
+```javascript
 array regex.replace(string input, string regexSplinters)
 ```
 
@@ -33,7 +33,7 @@ array regex.replace(string input, string regexSplinters)
 
 ### [ & ](#) / regex.split
 
-```c
+```javascript
 string[] regex.split(string input, string regexSplinters)
 ```
 
@@ -42,7 +42,7 @@ string[] regex.split(string input, string regexSplinters)
 
 ### [ & ](#) / regex.grep
 
-```c
+```javascript
 array regex.grep(string input, string regexSplinters)
 ```
 
