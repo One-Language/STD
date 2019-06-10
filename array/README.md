@@ -1,6 +1,6 @@
 # ET STD :&: ARRAY 
 
-### [&](#anchors-in-markdown)
+### [& ET STD / ARRAY ](#anchors-in-markdown)
 
 
 
