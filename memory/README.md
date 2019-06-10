@@ -4,12 +4,38 @@
 <br>
 <br>
 
-### [ & ](#) / memory.alloc, memory.register , memory.realloc
+### [ & ](#) / memory.alloc
 
 <br>
 <br>
 
-### [ & ](#) /  ### memory.free, memory.remove, memory.delete , memory.size
+### [ & ](#) / memory.register
+
+<br>
+<br>
+
+### [ & ](#) / memory.realloc
+
+<br>
+<br>
+
+### [ & ](#) / memory.free
+
+<br>
+<br>
+
+
+### [ & ](#) / memory.remove
+
+<br>
+<br>
+
+### [ & ](#) / memory.delete 
+
+<br>
+<br>
+
+### [ & ](#) / memory.size
 
 <br>
 <br>
