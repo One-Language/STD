@@ -36,7 +36,6 @@ bool file.edit(string name);
 
 ### [ & ](#) / file.change
 
-
 ```c
 bool file.change(char name);
 bool file.change(string name);
@@ -47,9 +46,6 @@ bool file.change(string name);
 
 ### [ & ](#) / file.content
 
-<br>
-<br>
-
 ```c
 bool file.content(char name);
 bool file.content(string name);
@@ -59,9 +55,6 @@ bool file.content(string name);
 <br>
 
 ### [ & ](#) / file.append
-
-<br>
-<br>
 
 ```c
 bool file.append(char name);
@@ -152,22 +145,7 @@ bool file.copy(string name, char newname);
 <br>  
 <br>
 
-### [ & ](#) /  file.read
-
-<br>
-<br>
-
-### [ & ](#) / file.readLine
-
-<br>
-<br>
-
-### [ & ](#) / file.list
-
-<br>
-<br>
-
-### [ & ](#) / file.tree
+### [ & ](#) /  file.read , file.readLine , file.list , file.tree
 
 <br>
 <br>
