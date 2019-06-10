@@ -16,19 +16,23 @@ bool file.create(string name);
 
 ### [ & ](#) / file.modify
 
-
 ```c
 bool file.modify(char name);
 bool file.modify(string name);
 ```
 
-### [ & ](#) / file.edit
+<br>
+<br>
 
+### [ & ](#) / file.edit
 
 ```c
 bool file.edit(char name);
 bool file.edit(string name);
 ```
+
+<br>
+<br>
 
 ### [ & ](#) / file.change
 
@@ -37,6 +41,9 @@ bool file.edit(string name);
 bool file.change(char name);
 bool file.change(string name);
 ```
+
+<br>
+<br>
 
 ### [ & ](#) / file.content
 
@@ -47,6 +54,9 @@ bool file.change(string name);
 bool file.content(char name);
 bool file.content(string name);
 ```
+
+<br>
+<br>
 
 ### [ & ](#) / file.append
 
