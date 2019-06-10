@@ -1,12 +1,12 @@
-# [ & ](#) / String
+# [ & ](#String) / String
 
 <br>
 <br>
 <br>
 
-### [ & ](#) / string.upper
+### [ & ](#string.upper) / string.upper
 
-```c
+```julia
 char string.upper(char input);
 string string.upper(string input);
 ```
@@ -14,9 +14,9 @@ string string.upper(string input);
 <br>
 <br>
 
-### [ & ](#) / string.lower
+### [ & ](#string.lower) / string.lower
 
-```c
+```julia
 char string.lower(char input);
 string string.lower(string input);
 ```
@@ -24,9 +24,9 @@ string string.lower(string input);
 <br>
 <br>
 
-### [ & ](#) /  string.repeat
+### [ & ](#string.repeat) / string.repeat
 
-```c
+```julia
 string string.repeat(char input, int number);
 string string.repeat(string input, int number);
 ```
@@ -34,9 +34,9 @@ string string.repeat(string input, int number);
 <br>
 <br>
 
-### [ & ](#) / string.length
+### [ & ](#string.length) / string.length
 
-```c
+```julia
 size string.length(char input);
 size string.length(string input);
 ```
@@ -45,9 +45,9 @@ size string.length(string input);
 <br>
 
 
-### [ & ](#) / string.utf8Length
+### [ & ](#string.utf8Length) / string.utf8Length
 
-```c
+```julia
 size string.utf8Length(string input);
 size string.utf8Length(char input);
 ```
@@ -55,9 +55,9 @@ size string.utf8Length(char input);
 <br>
 <br>
 
-### [ & ](#) / string.replace
+### [ & ](#string.replace) / string.replace
 
-```c
+```julia
 char string.replace(char input, char found, char replace);
 string string.replace(char input, string found, char replace);
 string string.replace(char input, char found, string replace);
@@ -71,9 +71,9 @@ string string.replace(string input, string found, string replace);
 <br>
 <br>
 
-### [ & ](#) / string.search
+### [ & ](#string.search) / string.search
 
-```c
+```julia
 bool string.replace(char input, char found);
 bool string.replace(char input, string found);
 bool string.replace(string input, char found);
