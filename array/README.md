@@ -8,9 +8,8 @@
 
 <!--- ### array array; --->
  
-```pascal  
-array array; 
-
+```
+array array;
 ```
 
 <br>
