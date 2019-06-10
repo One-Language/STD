@@ -1,5 +1,13 @@
 > ## ET STD / ARRAY 
 
+#
+
+
+<p align="center">
+ <a style="font-size:20px"> & </a>
+</p>
+
+#
 
 <br>
 <br>
@@ -96,11 +104,4 @@ bool array.resize(size newSize);
 <br>
 
 
-#
 
-
-<p align="center">
- <a> & </a>
-</p>
-
-#
