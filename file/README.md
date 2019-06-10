@@ -60,6 +60,9 @@ bool file.copy(string name, string newname);
 bool file.copy(string name, char newname);
 ```
 
+<br>  
+<br>
+
 ### [ & ](#) /  file.read
 
 <br>
