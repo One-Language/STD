@@ -4,15 +4,16 @@
 <br>
 <br>
 
-# [ & ](#) / cgi.accept
+### [ & ](#) / cgi.accept
 
 ```c
 bool cgi.accept(void)
 ```
 
----------
+#
 
-# [ & ](#) / Using
+
+### [ & ](#) / Using
 
 ```markdown
 > & et build test.et -o test
