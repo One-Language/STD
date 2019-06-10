@@ -1,4 +1,4 @@
-### [& ET STD /](#) ET STD / ARRAY 
+### [& /](#) ET STD / ARRAY 
 
 <br>
 <br>
