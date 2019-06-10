@@ -15,6 +15,8 @@ array array;
 
 <br>
 <br>
+<br>
+
 
 **&/ array.length**
 #
@@ -26,8 +28,11 @@ array array;
 ```pascal
 size array.length(array list);
 ```
+
 <br>
 <br>
+<br>
+
 
 **&/ array.push**
 #
@@ -43,6 +48,8 @@ bool array.push(auto value);
 
 <br>
 <br>
+<br>
+
 
 **&/ array.add**
 #
@@ -57,6 +64,8 @@ bool array.add(auto value);
 
 <br>
 <br>
+<br>
+
 
 **&/ array.insert**
 #
@@ -71,6 +80,8 @@ bool array.insert(auto value);
 
 <br>
 <br>
+<br>
+
 
 **&/ array.type**
 #
@@ -85,6 +96,7 @@ auto array.type(size index);
 
 <br>
 <br>
+<br>
 
 **&/ array.get**
 #
@@ -93,12 +105,14 @@ auto array.type(size index);
 
 ### array.get
 
-```c
+```pascal
 auto array.get(size index);
 ```
 
 <br>
 <br>
+<br>
+
 
 **&/ array.exist**
 #
@@ -107,12 +121,14 @@ auto array.get(size index);
 
 ### array.exist
 
-```c
+```pascal 
 bool array.exist(auto value);
 ```
 
 <br>
 <br>
+<br>
+
 
 **&/ array.resize**
 #
@@ -126,6 +142,7 @@ bool array.exist(auto value);
 ```c
 bool array.resize(size newSize);
 ```
+<br>
+<br>
+<br>
 
-<br>
-<br>
