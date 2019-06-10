@@ -1,10 +1,10 @@
-# [& ](#)  / Array 
+# [ & ](#) / Array 
 
 <br>
 <br>
 <br>
 
-### [& ](#) / array array;
+### [ & ](#) / array array;
 
 <!--- ### array array; --->
  
@@ -16,7 +16,7 @@ array array;
 <br>
 <br>
 
-### [& / array / ](#) / Array / array.length 
+### [ & ](#) / array.length 
 
 <!--- ### array.length  --->
 
@@ -28,7 +28,7 @@ size array.length(array list);
 <br>
 <br>
 
-### [& / array / ](#) / Array / rray.push
+### [ & ](#) / array.push
 
 <!--- ### array.push  --->
 
@@ -40,7 +40,7 @@ bool array.push(auto value);
 <br>
 <br>
 
-### [& / array / ](#) / Array / array.add
+### [ & ](#) / array.add
 
 <!--- ### array.add  --->
 
@@ -52,7 +52,7 @@ bool array.add(auto value);
 <br>
 <br>
 
-### [& / array / ](#) / Array / array.insert
+### [ & ](#) / array.insert
 
 <!--- ### array.insert  --->
 
@@ -64,7 +64,7 @@ bool array.insert(auto value);
 <br>
 <br>
 
-### [& / array / ](#) / Array / array.type 
+### [ & ](#) / array.type 
 
 <!--- ### array.type  --->
 
@@ -88,7 +88,7 @@ auto array.get(size index);
 <br>
 <br>
 
-### [& / array / ](#) / Array / array.exist
+### [ & ](#) / array.exist
 
 <!--- ### array.exist  --->
 
@@ -100,7 +100,7 @@ bool array.exist(auto value);
 <br>
 <br>
 
-### [& / array / ](#) / Array / array.resize 
+### [ & ](#) / array.resize 
 
 <!--- ### array.resize  --->
 
@@ -111,6 +111,3 @@ bool array.resize(size newSize);
 <br>
 <br>
 <br>
-
-
-
