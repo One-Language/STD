@@ -5,8 +5,6 @@
 **&/ array array;**
 #
 
-<br>
-
 ### array array;
  
 ```pascal
