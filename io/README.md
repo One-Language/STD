@@ -1,20 +1,20 @@
-# ET STD / IO
+# [ & ](#) /  IO
 
-### io.exit
+### [ & ](#) / io.exit
 
-```c
+```pascal
 void io.exit(int code)
 ```
 
-### io.read
+### [ & ](#) / io.read
 
-### io.write
+### [ & ](#) / io.write
 
-```c
+```pascal
 size io.write(char input)
 size io.write(string input)
 size io.write(file target, char input)
 size io.write(file target, string input)
 ```
 
-### io.pause
+### [ & ](#) / io.pause
