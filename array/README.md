@@ -86,9 +86,6 @@ bool array.exist(auto value);
 
 ### array.resize
 
-<br>
-<br>
-
 ```c
 bool array.resize(size newSize);
 ```
