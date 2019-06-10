@@ -14,6 +14,7 @@ array array;
 ```
 
 <br>
+<br>
 
 **&/ array.length**
 #
@@ -25,6 +26,7 @@ array array;
 ```pascal
 size array.length(array list);
 ```
+<br>
 <br>
 
 **&/ array.push**
@@ -40,9 +42,11 @@ bool array.push(auto value);
 ```
 
 <br>
+<br>
 
 **&/ array.add**
 #
+
 <br>
 
 ### array.add
@@ -51,6 +55,7 @@ bool array.push(auto value);
 bool array.add(auto value);
 ```
 
+<br>
 <br>
 
 **&/ array.insert**
@@ -64,6 +69,7 @@ bool array.add(auto value);
 bool array.insert(auto value);
 ```
 
+<br>
 <br>
 
 **&/ array.type**
