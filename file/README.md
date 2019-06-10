@@ -85,7 +85,6 @@ bool file.delete(string name);
 <br>
 
 ### [ & ](#) / file.rename
-
 ```c
 bool file.rename(char name, char newname);
 bool file.rename(char name, string newname);
@@ -94,10 +93,6 @@ bool file.rename(string name, char newname);
 ```
 
 ### [ & ](#) / file.cut
-
-<br>
-<br>
-
 ```c
 bool file.cut(char name, char newname);
 bool file.cut(char name, string newname);
@@ -109,7 +104,6 @@ bool file.cut(string name, char newname);
 <br>
 
 ### [ & ](#) / file.copy, file.send, file.share
-
 ```c
 bool file.copy(char name, char newname);
 bool file.copy(char name, string newname);
