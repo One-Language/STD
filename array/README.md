@@ -1,8 +1,5 @@
 # ET STD :&: ARRAY 
 
-### [& ET STD / array array;](#anchors-in-markdown)
-
-
 
 #
 
@@ -10,12 +7,17 @@
 <br>
 <br>
 
-[array array; ](#anchors-in-markdown)
+> [@read ](#anchors-in-markdown)
+### [& ET STD / array array;](#anchors-in-markdown)
+
 ### array array;
  
 ```pascal  
-array array;
+array array; 
+
 ```
+
+
 
 <br>
 <br>
